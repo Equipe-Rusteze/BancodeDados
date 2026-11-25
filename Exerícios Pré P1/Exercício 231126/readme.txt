@@ -1,1 +1,6 @@
-O exercício consiste em criar 2 diagramas utilizando 2 dos 4 modelos de Bancos de Dados apresentado em aula, contendo Nome e Sobrenome, Matrícula, Bairro e Cidade do aluno, após isso, criar um .sql dos dois diagramas.
+Criar dois diagramas de banco de dados, utilizando dois dos quatro modelos apresentados em aula. Cada diagrama deve conter os seguintes dados do aluno:
+- Nome e sobrenome
+- Matrícula
+- Bairro
+- Cidade
+Ao finalizar, crie um arquivo .sql com a estrutura dos dois diagramas. Utilizamos Árvore e Relacional.
