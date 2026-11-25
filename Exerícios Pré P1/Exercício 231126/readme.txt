@@ -1,0 +1,1 @@
+O exercício consiste em criar 2 diagramas utilizando 2 dos 4 modelos de Bancos de Dados apresentado em aula, contendo Nome e Sobrenome, Matrícula, Bairro e Cidade do aluno, após isso, criar um .sql dos dois diagramas.
